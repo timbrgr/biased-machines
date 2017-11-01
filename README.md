@@ -12,3 +12,4 @@ This repository should work as a wiki, article collection and a future playgorun
 
 ## Recent articles in the media
 - https://www.wsj.com/articles/artificial-intelligencewith-very-real-biases-1508252717
+- https://motherboard.vice.com/en_us/article/59ydmx/copyright-law-artificial-intelligence-bias
