@@ -14,3 +14,4 @@ This repository should work as a wiki, article collection and a future playgorun
 - https://www.wsj.com/articles/artificial-intelligencewith-very-real-biases-1508252717
 - https://motherboard.vice.com/en_us/article/59ydmx/copyright-law-artificial-intelligence-bias
 - https://gizmodo.com/microsoft-researcher-details-real-world-dangers-of-algo-1821129334
+- https://hbr.org/2018/04/if-your-data-is-bad-your-machine-learning-tools-are-useless
